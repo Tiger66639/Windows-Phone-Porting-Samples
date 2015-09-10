@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="70eed816-992f-42d6-a17d-d9eb17d3fa8d" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
+  <name>Windows Phone Porting Samples</name>
+  <parameters />
+  <cleanup />
+</project>
+
